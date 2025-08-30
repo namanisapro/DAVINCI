@@ -1,0 +1,44 @@
+=== High-Frequency Trading Simulation Report ===
+
+Generated: 2025-08-15 11:01:46.012
+
+System Configuration:
+  Symbol: AAPL
+  Initial Price: 150
+  Tick Size: 0.01
+  Order Book Depth: 10
+  Simulation Duration: 120000 ms
+  Tick Interval: 10 ms
+
+Market Maker Configuration:
+  Base Spread: 15 bps
+  Min Spread: 5 bps
+  Max Spread: 50 bps
+  Volatility Multiplier: 2
+  Max Position Size: 1000
+  Order Size: 100
+  Order Refresh: 100 ms
+
+Performance Metrics:
+  Total Ticks: 11768
+  Total Volume: 0
+  Ticks per Second: 57.0346
+
+Order Book Summary:
+  Total Orders: 23536
+  Total Fills: 0
+  Bid Levels: 1
+  Ask Levels: 1
+
+PnL Summary:
+  Total PnL: 0
+  Realized PnL: 0
+  Unrealized PnL: 0
+  Max Drawdown: 0
+  Sharpe Ratio: 0
+  Volatility: 0
+  Win Rate: 0%
+  Profit Factor: 0
+  Total Trades: 0
+
+=== End of Report ===

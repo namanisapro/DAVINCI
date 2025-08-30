@@ -1,0 +1,65 @@
+# Build directories
+build/
+bin/
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Log files
+logs/
+*.log
+
+# IDE specific files
+.vscode/
+.idea/
+*.sln
+*.vcxproj*
+*.vcproj
+*.sln
+*.cmake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+*.a
+*.lib
+
+# Data files
+*.csv
+*.dat
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development environment
+.env
+
+# System files
+.DS_Store
+Thumbs.db
